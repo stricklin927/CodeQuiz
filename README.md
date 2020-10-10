@@ -11,5 +11,3 @@ MSU - Homework 04: Code Quiz
 * HTML5
 * CSS3
 * Javascript
-
-
