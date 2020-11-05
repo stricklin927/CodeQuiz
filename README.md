@@ -9,7 +9,7 @@ For this project I created a coding assessment. It is a timed code quiz with mul
 
 
 ## App Demo
-### CLick the start button which starts the timer.
+### Click the start button which starts the timer.
 ![StartQuiz](/assets/image/screenshot1.png)
 
 ### Answer questions for points.
