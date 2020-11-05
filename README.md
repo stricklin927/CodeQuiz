@@ -10,16 +10,16 @@ For this project I created a coding assessment. It is a timed code quiz with mul
 
 ## App Demo
 ### Click the start button which starts the timer.
-![StartQuiz](/assets/image/screenshot1.png)
+![StartQuiz](/assets/images/screenshot1.png)
 
 ### Answer questions for points.
-![Question](/assets/image/screenshot2.png)
+![Question](/assets/images/screenshot2.png)
 
 ### When finished with quiz, score is revealed, and user inputs initials.
-![Done](/assets/image/screenshot3.png)
+![Done](/assets/images/screenshot3.png)
 
 ### Highscores are displayed and saved.
-![Highscores](/assets/image/screenshot3.png)
+![Highscores](/assets/images/screenshot3.png)
 
 
 ## Built with
