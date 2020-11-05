@@ -19,7 +19,7 @@ For this project I created a coding assessment. It is a timed code quiz with mul
 ![Done](/assets/images/screenshot3.png)
 
 ### Highscores are displayed and saved.
-![Highscores](/assets/images/screenshot3.png)
+![Highscores](/assets/images/screenshot4.png)
 
 
 ## Built with
